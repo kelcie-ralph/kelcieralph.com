@@ -3,7 +3,7 @@ title: "Kelcie Ralph, PhD"
 image: media/headshot.jpg
 about:
   template: trestles
-  image-shape: round
+  image-shape: rounded
 ---
 ::: callout-note
 🚧 This site is under construction. 🚧
@@ -15,22 +15,6 @@ about:
 Kelcie Ralph is an Associate Professor at Rutgers, the State University of New Jersey.
 
 💡 Dr. Ralph's research focuses on the politics of transportation and the slow pace of reform. See all publications on [Google Scholar](https://scholar.google.com/citations?user=1TPJPWwAAAAJ&hl=en).
-
-# Teaching
-
-Professor Ralph teaches at the Bloustein School of Planning and Public Policy, where she teaches three graduate classes:
-
--   🚗 Introduction to Transportation Planning
-
--   🌲 Transportation and Environmental Issues
-
--   🚲 Bicycle and Pedestrian Planning
-
-And two undergraduate classes:
-
--   🚗 Transportation Planning
-
--   🌇 Designing Healthy Cities
 
 # Education
 
