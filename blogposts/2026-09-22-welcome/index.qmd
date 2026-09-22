@@ -1,0 +1,16 @@
+---
+title: "Welcome"
+description: "A brief introduction to why I'm writing"
+
+
+date: 9-22-2026
+
+categories: 
+
+citation:
+  url: https://bloustein.rutgers.edu
+image: construction.png
+draft: false
+---
+
+Here is where I will start writing my actual blog post content...

@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kelcie Ralph, PhD"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - blogposts.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    page-layout: full
