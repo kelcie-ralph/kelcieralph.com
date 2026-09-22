@@ -5,10 +5,6 @@ about:
   template: trestles
   image-shape: rounded
 ---
-::: callout-note
-🚧 This site is under construction. 🚧
-:::
-
 
 # Research 
 
